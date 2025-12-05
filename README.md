@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnur12345&label=Profile%20views&color=0e75b6&style=flat" alt="arnur12345" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnur12345" alt="arnur12345" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/arnurartykbay" target="blank"><img src="https://img.shields.io/twitter/follow/arnurartykbay?logo=twitter&style=for-the-badge" alt="arnurartykbay" /></a> </p>
+
 - 🔭 I’m currently working on [Axel](tryaxel.app)
 
 <h3 align="left">Connect with me:</h3>
